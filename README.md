@@ -7,5 +7,5 @@ Implementation of "Dynamic Control for On-demand Interference-managed WLAN Infra
 - JSON (JavaScript Object Notation)
 
 # Codes
-- JITWLAN.java: implementation of JIT-WLAN algorithm in the paper
+- JITWLAN.java: implementation of main algorithm in the paper
 - Test_JIT_WLAN.java: sample test code
