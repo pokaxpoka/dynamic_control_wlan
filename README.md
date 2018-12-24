@@ -1,2 +1,11 @@
 # dynamic_control_wlan
 Implementation of "Dynamic Control for On-demand Interference-managed WLAN Infrastructures"
+
+# Prerequisites
+- JAVA
+- CPLEX solver
+- JSON (JavaScript Object Notation)
+
+# Codes
+- JITWLAN.java: implementation of JIT-WLAN algorithm in the paper
+- Test_JIT_WLAN.java: sample test code
