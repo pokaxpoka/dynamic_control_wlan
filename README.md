@@ -10,4 +10,4 @@ Implementation of "Dynamic Control for On-demand Interference-managed WLAN Infra
 # Codes
 - JITWLAN.java: implementation of main algorithm in the paper
 - Test_JIT_WLAN.java: sample test code
-- 
+- odin-master.7z : Whole JITWLAN code which is included in odin-master
