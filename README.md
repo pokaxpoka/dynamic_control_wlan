@@ -6,6 +6,7 @@ Implementation of "Dynamic Control for On-demand Interference-managed WLAN Infra
 - CPLEX solver
 - JSON (JavaScript Object Notation)
 - Odin Framework
+-- Odin client which inclues click should be installed in each AP
 
 # Codes
 - JITWLAN.java: implementation of main algorithm in the paper
