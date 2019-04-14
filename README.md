@@ -15,11 +15,13 @@ Implementation of "Dynamic Control for On-demand Interference-managed WLAN Infra
 
 # Start up setting
 -Install Odin-framework
---See https://github.com/lalithsuresh/odin
+See https://github.com/lalithsuresh/odin
 - Add-client : Add client's mac-address and IP to client file
 (In this file abc.txt, original Odin using "net.floodlightcontroller.odin.master.OdinMaster.clientList")
 - Add-switch : Add switch's address to switch file
 (In this file zxc.txt, original Odin using "net.floodlightcontroller.odin.master.OdinMaster.poolFile")
+
+-Basic AP setting
 
 
 
