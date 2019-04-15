@@ -29,10 +29,10 @@ switchIPList.add(0, "192.168.1.51");
 
 Around line 1303
 set start up setting number
-===============================
+
 int Num_user =8;//cList.size();
 int Num_AP =10;
 int Num_Channel = 1;
 sOnOff = new int[Num_AP];
-==============================
+
 
