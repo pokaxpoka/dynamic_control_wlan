@@ -55,3 +55,16 @@ String serverIP = "143.248.56.10";
 String user1IP = "143.248.57.70";
 
 
+# Start evaluation
+1.switch and user add step
+After run floodlight, add switch to controller.
+Each switch are add to controller in order(this is need for fit overlap graph which write with using solver.setOverlap_G function ).
+After switch are added to switch, each user connect to wi-fi which odin_vlan's SSID.
+this step must have done in 5min (you can modify this time change number at line 1221 in odinmaster.java file.
+
+2. send data to user
+when "Start test. after 0min, flow start!" text is printed in controller consol window, send data to user
+
+3. each 5min period, test is repeat
+Our test sinario repeated in 5 min period.
+when your test is over(all data sended to user), turn off the controller.
